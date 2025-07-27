@@ -25,8 +25,8 @@ Hi, I’m **Denislav** – founder of **Nebula Dev**, where we build modern, sca
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### ✍️ Quote I Like
+![](https://camo.githubusercontent.com/540b7ddca5ec8693e939aac37b3ef6cbf509820e7624de69e8e0c4a9b00c8831/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d746f6b796f6e69676874d)
 
 ---
 
