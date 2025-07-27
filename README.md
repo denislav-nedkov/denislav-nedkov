@@ -7,7 +7,9 @@
 ### 🔧 Tech Focus
 
 🚀 **Web Development**
-🤖 **Discord Bots**   
+
+🤖 **Discord Bots**  
+
 🎮 **FiveM Scripts**
 🧩 **Minecraft Mods**  
 
