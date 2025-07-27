@@ -19,9 +19,9 @@ Hi, I’m **Denislav** – founder of **Nebula Dev**, where we build modern, sca
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-self-six-60.vercel.app/api?username=denkata-nd&count_private=true&include_all_commits=true&show_icons=true&theme=dark)  
-![](https://nirzak-streak-stats.vercel.app/?user=denkata-nd&theme=dark&hide_border=false)  
-![](https://github-readme-stats-self-six-60.vercel.app/api/top-langs/?username=denkata-nd&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats-self-six-60.vercel.app/api?username=denislav-nedkov&count_private=true&include_all_commits=true&show_icons=true&theme=dark)  
+![](https://nirzak-streak-stats.vercel.app/?user=denislav-nedkov&theme=dark&hide_border=false)  
+![](https://github-readme-stats-self-six-60.vercel.app/api/top-langs/?username=denislav-nedkov&theme=dark&hide_border=false&layout=compact)
 
 ---
 
