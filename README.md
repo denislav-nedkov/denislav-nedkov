@@ -1,12 +1,25 @@
-# 💫 About Me:
-Hi, I’m **Denislav** – founder of **Nebula Dev**, where we build modern, scalable tools for web, Discord, and gaming platforms.
+# 💫 About Me
 
-🔧 I specialize in:  
-• Web Development with **Next.js 15**, **TypeScript**, **Tailwind**  
-• Discord Bots using **Discord.js** and custom modular handlers  
-• **FiveM Servers** with optimized scripts and custom UIs  
+👋 Hey there! I’m **Denislav**, founder of **Nebula Dev** –  
+we craft modern, scalable solutions for the **web**, **Discord**, and **gaming platforms**.
 
 ---
+
+### 🔧 Tech Focus
+
+🚀 **Web Development**  
+‣ Next.js 15 • TypeScript • TailwindCSS  
+
+🤖 **Discord Bots**  
+‣ Discord.js • Modular Command Handlers  
+
+🎮 **FiveM Servers**  
+‣ Custom UIs • Optimized Lua Scripts • Roleplay/Utility Tools  
+
+---
+
+🧠 Always building. Always shipping.  
+📌 Currently working on: AI tools, Next.js dashboards, Discord frameworks, and Minecraft utilities.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/x9B3V5Y729)
