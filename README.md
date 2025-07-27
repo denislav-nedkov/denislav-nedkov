@@ -6,19 +6,12 @@
 
 ### 🔧 Tech Focus
 
-🚀 **Web Development**  
-‣ Next.js 15 • TypeScript • TailwindCSS  
-
-🤖 **Discord Bots**  
-‣ Discord.js • Modular Command Handlers  
-
-🎮 **FiveM Servers**  
-‣ Custom UIs • Optimized Lua Scripts • Roleplay/Utility Tools  
+🚀 **Web Development**
+🤖 **Discord Bots**   
+🎮 **FiveM Scripts**
+🧩 **Minecraft Mods**  
 
 ---
-
-🧠 Always building. Always shipping.  
-📌 Currently working on: AI tools, Next.js dashboards, Discord frameworks, and Minecraft utilities.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/x9B3V5Y729)
