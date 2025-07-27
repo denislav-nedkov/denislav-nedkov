@@ -6,13 +6,13 @@
 
 ### 🔧 Tech Focus
 
-&nbsp;&nbsp;&nbsp;🚀 **Web Development**
+&nbsp;&nbsp;&nbsp;&nbsp;🚀 **Web Development**
 
-&nbsp;&nbsp;&nbsp;🤖 **Discord Bots**  
+&nbsp;&nbsp;&nbsp;&nbsp;🤖 **Discord Bots**  
 
-&nbsp;&nbsp;&nbsp;🎮 **FiveM Scripts**
+&nbsp;&nbsp;&nbsp;&nbsp;🎮 **FiveM Scripts**
 
-&nbsp;&nbsp;&nbsp;🧩 **Minecraft Mods**  
+&nbsp;&nbsp;&nbsp;&nbsp;🧩 **Minecraft Mods**  
 
 ---
 
