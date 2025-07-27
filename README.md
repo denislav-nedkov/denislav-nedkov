@@ -1,7 +1,6 @@
 # 💫 About Me
 
-👋 Hey there! I’m **Denislav**, founder of **Nebula Dev** –  
-we craft modern, scalable solutions for the **web**, **Discord**, and **gaming platforms**.
+👋 Hey there! I’m **Denislav**, founder of **Nebula Dev** - we craft modern, scalable solutions for the **web**, **Discord**, and **gaming platforms**.
 
 ---
 
