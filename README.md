@@ -1,41 +1,45 @@
-# 💫 About Me
+# 👋 Hey, I’m Denislav
 
-👋 Hey there! I’m **Denislav**, founder of **Nebula Dev** - we craft modern, scalable solutions for the **web**, **Discord**, and **gaming platforms**.
+I'm a developer who enjoys building things that are useful, fast, and clean.
 
----
-
-### 🔧 Tech Focus
-
-&nbsp;&nbsp;&nbsp;&nbsp;🚀 **Web Development**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🤖 **Discord Bots**  
-
-&nbsp;&nbsp;&nbsp;&nbsp;🎮 **FiveM Scripts**
-
-&nbsp;&nbsp;&nbsp;&nbsp;🧩 **Minecraft Mods**  
+I also happen to be the founder of **Nebula Dev** — a small team focused on building tools for the web, Discord, and gaming platforms. We keep things simple, scalable, and enjoyable to work on.
 
 ---
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/x9B3V5Y729)
+### 🧩 What I Work On
+
+- ⚡ Full-stack web apps (Next.js + Express)
+- 🤖 Discord bots (TypeScript)
+- 🎮 Game tools for FiveM & Minecraft
 
 ---
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🛠 Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=flat-square&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma)
+![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![discord.js](https://img.shields.io/badge/discord.js-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats-self-six-60.vercel.app/api?username=denislav-nedkov&count_private=true&include_all_commits=true&show_icons=true&theme=dark)  
-![](https://nirzak-streak-stats.vercel.app/?user=denislav-nedkov&theme=dark&hide_border=false)  
-![](https://github-readme-stats-self-six-60.vercel.app/api/top-langs/?username=denislav-nedkov&theme=dark&hide_border=false&layout=compact)
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-self-six-60.vercel.app/api?username=denislav-nedkov&show_icons=true&theme=tokyonight&hide=issues&count_private=true" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=denislav-nedkov&theme=tokyonight&hide_border=false" width="48%" />
+</div>
 
 ---
 
-### ✍️ Quote I Like
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### 📫 Contact
 
----
+If you're interested in working together or just want to say hi, the best way to reach me is by email:
 
-[![](https://visitcount.itsvg.in/api?id=denkata-nd&icon=0&color=0)](https://visitcount.itsvg.in)
+**📧 denislav.nedkov.work@gmail.com**
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/x9B3V5Y729)
+
