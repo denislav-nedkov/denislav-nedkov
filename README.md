@@ -29,7 +29,7 @@ I also happen to be the founder of **Nebula Dev** — a small team focused on bu
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-self-six-60.vercel.app/api?username=denislav-nedkov&show_icons=true&theme=tokyonight&hide=issues&count_private=true](https://github-readme-stats-self-six-60.vercel.app/api?username=denislav-nedkov&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats-self-six-60.vercel.app/api?username=denislav-nedkov&show_icons=true&theme=tokyonight&hide=issues&count_private=true" width="48%" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=denislav-nedkov&theme=tokyonight&hide_border=false" width="48%" />
 </div>
 
